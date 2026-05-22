@@ -1,6 +1,6 @@
 # AI YouTube Automation Workflow
 
-An AI-powered automation workflow built using n8n, OpenAI, and Google Sheets.
+An AI-powered automation workflow built using n8n, GroqAI, and Google Sheets.
 
 ## Features
 
@@ -21,7 +21,7 @@ An AI-powered automation workflow built using n8n, OpenAI, and Google Sheets.
 ## Tech Stack
 
 - n8n
-- OpenAI API
+- Groq AI API
 - Google Sheets API
 
 ## Screenshots
@@ -30,7 +30,8 @@ An AI-powered automation workflow built using n8n, OpenAI, and Google Sheets.
 
 
 ### Workflow
-<img width="1919" height="907" alt="workflow png" src="https://github.com/user-attachments/assets/1e0fc6bf-0851-4d4c-8ddc-4789da22c201" />
+<img width="1919" height="927" alt="groq Ai yt automation" src="https://github.com/user-attachments/assets/05018bab-e758-490b-882a-f218ccc7b386" />
+
 
 ### Google Sheets Output
 <img width="1919" height="831" alt="google sheets" src="https://github.com/user-attachments/assets/0755400c-7787-4ed6-b8ee-70b2788bf047" />
